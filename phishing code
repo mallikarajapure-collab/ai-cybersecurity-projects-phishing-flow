@@ -1,0 +1,16 @@
+print("🔐 Phishing Detection System Simulation")
+print("--------------------------------------")
+
+email = input("Enter email type (safe/suspicious/malicious): ").lower()
+
+if email == "safe":
+    print("✅ Email is safe. Access allowed.")
+
+elif email == "suspicious":
+    print("⚠️ Warning: Suspicious email detected. Proceed with caution.")
+
+elif email == "malicious":
+    print("❌ Threat detected! Email blocked and reported.")
+
+else:
+    print("❗ Invalid input. Please enter safe, suspicious, or malicious.")
