@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450A0A,50:DC2626,100:F87171&height=210&section=header&text=PHISHING%20FLOW&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Awareness%20Flowchart&descAlignY=60&descSize=15" width="100%" />
+
+</div>
+
+---
+
 # 🔐 Phishing Detection System – Cybersecurity Flowchart
 
 ## 🌸 Overview
